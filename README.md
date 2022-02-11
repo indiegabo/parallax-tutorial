@@ -1,6 +1,6 @@
 # Tutorial Sobre Parallax
 
-Projeto criado para o tutorial que publiquei no [Youtube](https://www.youtube.com/channel/UCr2JYXnHOpc7Sj6M-A5BcKg) explicando como funciona o efeito parallax. 
+Projeto criado para o [tutorial](https://www.youtube.com/watch?v=qsVp9-ZK1hU) que publiquei no YouTube explicando como funciona o efeito parallax. 
 
 Fiz para você, fique a vontade para baixar o projeto para estudar, ou até mesmo utilizar o Script que criamos!
 
